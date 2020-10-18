@@ -1,6 +1,6 @@
 # Electricity-Consumpustion-India-Datathon
 
-This Study Has been conducted by [Swati Arora](https://www.linkedin.com/in/swati-arora-59515213a/), [Vaishali singh](https://www.linkedin.com/in/vaishali-singh-997s/) and [Karan Gupta](https://www.linkedin.com/in/karangupta26/).The have conducted their study under the name of "DATA GEEKS" and are participation in Melbourne Datathon Challenge A
+This Study Has been conducted by [Swati Arora](https://www.linkedin.com/in/swati-arora-59515213a/), [Vaishali singh](https://www.linkedin.com/in/vaishali-singh-997s/) and [Karan Gupta](https://www.linkedin.com/in/karangupta26/).They have conducted their study under the name of "DATA GEEKS" and are participation in Melbourne Datathon Challenge A
 
 ### About 
 
