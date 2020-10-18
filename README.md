@@ -1,6 +1,6 @@
 # Electricity-Consumpustion-India-Datathon
 
-This Study Has been conducted by [Swati Arora](https://www.linkedin.com/in/swati-arora-59515213a/), [Vaishali singh](https://www.linkedin.com/in/vaishali-singh-997s/) and [Karan Gupta](https://www.linkedin.com/in/karangupta26/).They have conducted their study under the name of "DATA GEEKS" and are participation in Melbourne Datathon Challenge A
+This Study Has been conducted by [Swati Arora](https://www.linkedin.com/in/swati-arora-59515213a/), [Vaishali singh](https://www.linkedin.com/in/vaishali-singh-997s/) and [Karan Gupta](https://www.linkedin.com/in/karangupta26/).They have conducted their study under the name of "DATA GEEKS" and are participation in Melbourne Datathon Challenge A.
 
 ### About 
 
@@ -31,3 +31,8 @@ Data Geeks have Analysed the Electricity Consumption in India(Norhtern Region). 
       7. You will find visualuzation tool bar on the right where clustered charts, pie chart, tables, map, heat map, Q&A and many other visual tools are given. 
       8. To check the consumption of electricity plot various charts. 
       9. Save your file and later you can publish it, which anyone can see on their phones or desktop using Bi software n app.
+
+### Team Members
+- Swati Arora - [LinkedIn](https://www.linkedin.com/in/swati-arora-59515213a/),[Github](https://github.com/swatiiarora)
+- Vaishali Singh - [LinkedIn](https://www.linkedin.com/in/vaishali-singh-997s/),[Github](https://github.com/vaishu-s09)
+- Karan Gupta - [LinkedIn](https://www.linkedin.com/in/karangupta26/),[Github](https://github.com/karangupta26)
